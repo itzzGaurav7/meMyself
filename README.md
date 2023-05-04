@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Upadhyay</h1>
-<h3 align="center">A passionate developer from India, aiming to master my skills.</h3>
+<h3 align="center">A passionate developer from Jalandhar, Punjab, India.</h3>
 
 # 💫 About Me:
 Freshman at NIT Jalandhar. Pursuing my passion in <br>development. Looking to collaborate in projects.<br>
 Mern Developer.
 
-👯 I’m looking to collaborate on open source projects based on web technologies.
+👯 I’m looking to collaborate on open source projects based on web technologies.<br>
 ⚡ Fun fact I hate java with passion.
 
 ## 🌐 Socials:
